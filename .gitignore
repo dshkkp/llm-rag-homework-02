@@ -1,0 +1,27 @@
+# API keys and environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Embedding cache
+emb_cache.npz
+
+# Agent memory
+episodes.jsonl
+facts.json
+
+# Milvus data
+volumes/
+milvus_data/
+
+# Downloaded PDF documents
+data/pdf/*.pdf
