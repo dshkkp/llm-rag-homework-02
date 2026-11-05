@@ -1,0 +1,151 @@
+config,model,id,correct,found,refused,cost,answer,gold
+Без RAG,gpt-4o-mini,q001,False,False,False,2.505e-05,100.,two neural networks
+Без RAG,gpt-4o-mini,q002,False,False,True,1.2e-05,NOT_FOUND.,hundreds
+Без RAG,gpt-4o-mini,q003,False,False,False,1.965e-05,watch time.,expected watch time
+Без RAG,gpt-4o-mini,q004,True,False,False,2.58e-05,A/B testing.,A/B testing
+Без RAG,gpt-4o-mini,q005,False,False,False,4.14e-05,Collaborative filtering and content-based filtering.,approximate nearest neighbor
+Без RAG,gpt-4o-mini,q006,False,False,True,1.1850000000000003e-05,NOT_FOUND,engagement and satisfaction
+Без RAG,gpt-4o-mini,q007,False,False,False,4.23e-05,multi-task learning architecture,Wide & Deep
+Без RAG,gpt-4o-mini,q008,False,False,True,1.2300000000000004e-05,NOT_FOUND.,side-tower
+Без RAG,gpt-4o-mini,q009,True,False,False,7.875e-05,Candidate Generation and Ranking.,candidate generation and ranking
+Без RAG,gpt-4o-mini,q010,False,False,True,1.2e-05,NOT_FOUND,two-tower neural net
+Без RAG,gpt-4o-mini,q011,False,False,False,5.31e-05,hard negatives,in-batch negatives
+Без RAG,gpt-4o-mini,q012,False,False,True,1.2149999999999997e-05,NOT_FOUND,tens of millions
+Без RAG,gpt-4o-mini,q013,False,False,False,5.130000000000001e-05,Increases.,final variance is higher
+Без RAG,gpt-4o-mini,q014,False,False,True,1.1999999999999994e-05,NOT_FOUND,REINFORCE
+Без RAG,gpt-4o-mini,q015,False,False,False,1.845e-05,behavior policies.,multiple behavior policies
+Без RAG,gpt-4o-mini,q016,False,False,False,2.804999999999999e-05,Upper Confidence Bound (UCB).,Boltzmann exploration
+Без RAG,gpt-4o-mini,q017,False,False,False,3.015e-05,"training loss divergence, validation loss divergence.",micro-divergence and full divergence
+Без RAG,gpt-4o-mini,q018,False,False,False,3.419999999999999e-05,0,0.5
+Без RAG,gpt-4o-mini,q019,False,False,False,2.7749999999999997e-05,RAdam.,Clippy
+Без RAG,gpt-4o-mini,q020,False,False,False,1.8749999999999995e-05,hybrid recommender model.,Hybrid model
+Без RAG,gpt-4o-mini,q021,True,False,False,2.3999999999999987e-05,Autoencoder.,Autoencoder
+Без RAG,gpt-4o-mini,q022,False,False,False,2.1749999999999987e-05,RNNs.,Recurrent Neural Network
+Без RAG,gpt-4o-mini,q023,False,False,False,6.434999999999999e-05,black box problem,Interpretability
+Без RAG,gpt-4o-mini,q024,False,False,False,2.3999999999999987e-05,contextual recommendations.,temporal/sequential recommendation
+Без RAG,gpt-4o-mini,q025,False,False,False,5.534999999999999e-05,Cold start problem.,sparsity
+Без RAG,gpt-4o-mini,q026,False,False,False,2.3550000000000003e-05,Factorization Machines.,Factorization Machine
+Без RAG,gpt-4o-mini,q027,False,False,True,1.1999999999999994e-05,NOT_FOUND,"37,380"
+Без RAG,gpt-4o-mini,q028,False,False,True,1.1999999999999994e-05,NOT_FOUND.,"3,362"
+Без RAG,gpt-4o-mini,q029,False,False,True,1.2750000000000012e-05,NOT_FOUND.,13.9
+Без RAG,gpt-4o-mini,q030,False,False,True,1.2750000000000012e-05,NOT_FOUND.,43.3%
+Без RAG,claude-sonnet-4.6,q001,False,False,False,0.001005,2,two neural networks
+Без RAG,claude-sonnet-4.6,q002,True,False,False,0.002202,"Hundreds (approximately hundreds of videos, typically cited ",hundreds
+Без RAG,claude-sonnet-4.6,q003,True,False,False,0.001545,Expected watch time,expected watch time
+Без RAG,claude-sonnet-4.6,q004,True,False,False,0.002118,A/B testing (live experiments),A/B testing
+Без RAG,claude-sonnet-4.6,q005,True,False,False,0.001746,Approximate nearest neighbor search,approximate nearest neighbor
+Без RAG,claude-sonnet-4.6,q006,True,False,False,0.002091,"Engagement and satisfaction (e.g., clicks/watch time and lik",engagement and satisfaction
+Без RAG,claude-sonnet-4.6,q007,True,False,False,0.00264,Wide & Deep,Wide & Deep
+Без RAG,claude-sonnet-4.6,q008,False,False,False,0.004188,An inverse propensity weighting (IPW) / debiasing component ,side-tower
+Без RAG,claude-sonnet-4.6,q009,True,False,False,0.001875,Candidate Generation and Ranking,candidate generation and ranking
+Без RAG,claude-sonnet-4.6,q010,False,False,False,0.002199,Two-tower (dual encoder) neural network architecture,two-tower neural net
+Без RAG,claude-sonnet-4.6,q011,True,False,False,0.0016979999999999999,In-batch negatives (batch negatives),in-batch negatives
+Без RAG,claude-sonnet-4.6,q012,False,False,False,0.003117,Approximately 1 billion videos,tens of millions
+Без RAG,claude-sonnet-4.6,q013,False,False,False,0.003311999999999999,The final variance increases — a higher learning rate causes,final variance is higher
+Без RAG,claude-sonnet-4.6,q014,True,False,False,0.0012240000000000003,REINFORCE,REINFORCE
+Без RAG,claude-sonnet-4.6,q015,False,False,False,0.002645999999999999,The logged feedback was collected from behavior policies (hi,multiple behavior policies
+Без RAG,claude-sonnet-4.6,q016,False,False,False,0.0028740000000000007,Upper Confidence Bound (UCB) exploration,Boltzmann exploration
+Без RAG,claude-sonnet-4.6,q017,False,False,False,0.004809000000000001,The paper distinguishes between **loss spikes** (transient d,micro-divergence and full divergence
+Без RAG,claude-sonnet-4.6,q018,True,False,False,0.0014789999999999994,0.5,0.5
+Без RAG,claude-sonnet-4.6,q019,False,False,False,0.007509000000000002,Nero (No-Regret optimizer),Clippy
+Без RAG,claude-sonnet-4.6,q020,False,False,False,0.0004049999999999991,A hybrid recommender model (hybrid recommender system),Hybrid model
+Без RAG,claude-sonnet-4.6,q021,True,False,False,0.0011970000000000001,Autoencoder,Autoencoder
+Без RAG,claude-sonnet-4.6,q022,True,False,False,0.0013769999999999998,Recurrent Neural Network (RNN),Recurrent Neural Network
+Без RAG,claude-sonnet-4.6,q023,True,False,False,0.002324999999999999,The black-box / lack of interpretability problem — deep lear,Interpretability
+Без RAG,claude-sonnet-4.6,q024,False,False,False,0.0007889999999999998,Context-aware recommendations,temporal/sequential recommendation
+Без RAG,claude-sonnet-4.6,q025,True,False,False,0.0039030000000000002,The data sparsity problem — insufficient user-item interacti,sparsity
+Без RAG,claude-sonnet-4.6,q026,True,False,False,0.0012300000000000002,FM (Factorization Machine),Factorization Machine
+Без RAG,claude-sonnet-4.6,q027,True,False,False,0.0008009999999999996,"37,380","37,380"
+Без RAG,claude-sonnet-4.6,q028,True,False,False,0.0014850000000000002,"3,362","3,362"
+Без RAG,claude-sonnet-4.6,q029,False,False,True,0.002069999999999999,NOT_FOUND,13.9
+Без RAG,claude-sonnet-4.6,q030,False,False,True,0.00417,NOT_FOUND,43.3%
+"RAG, k=5",gpt-4o-mini,q001,True,False,False,0.00010575,2 neural networks.,two neural networks
+"RAG, k=5",gpt-4o-mini,q002,True,True,False,7.815e-05,hundreds,hundreds
+"RAG, k=5",gpt-4o-mini,q003,True,False,False,8.865e-05,expected watch time per impression.,expected watch time
+"RAG, k=5",gpt-4o-mini,q004,False,False,True,7.245e-05,NOT_FOUND,A/B testing
+"RAG, k=5",gpt-4o-mini,q005,True,True,False,7.995000000000002e-05,approximate nearest neighbor lookup.,approximate nearest neighbor
+"RAG, k=5",gpt-4o-mini,q006,False,False,False,9.449999999999999e-05,binary classification and regression.,engagement and satisfaction
+"RAG, k=5",gpt-4o-mini,q007,True,True,False,8.595000000000002e-05,Wide & Deep model.,Wide & Deep
+"RAG, k=5",gpt-4o-mini,q008,False,False,False,9.36e-05,shallow tower,side-tower
+"RAG, k=5",gpt-4o-mini,q009,False,False,False,9.03e-05,nomination and ranking.,candidate generation and ranking
+"RAG, k=5",gpt-4o-mini,q010,False,False,True,8.7e-05,NOT_FOUND,two-tower neural net
+"RAG, k=5",gpt-4o-mini,q011,True,True,False,8.684999999999997e-05,in-batch negatives.,in-batch negatives
+"RAG, k=5",gpt-4o-mini,q012,True,True,False,8.94e-05,tens of millions.,tens of millions
+"RAG, k=5",gpt-4o-mini,q013,False,True,False,9.359999999999997e-05,Higher learning rate increases final variance.,final variance is higher
+"RAG, k=5",gpt-4o-mini,q014,True,True,False,0.00012150000000000003,REINFORCE.,REINFORCE
+"RAG, k=5",gpt-4o-mini,q015,False,False,True,8.7e-05,NOT_FOUND,multiple behavior policies
+"RAG, k=5",gpt-4o-mini,q016,True,True,False,8.94e-05,Boltzmann exploration.,Boltzmann exploration
+"RAG, k=5",gpt-4o-mini,q017,True,True,False,9.12e-05,micro-divergence and full divergence.,micro-divergence and full divergence
+"RAG, k=5",gpt-4o-mini,q018,True,True,False,0.00010185000000000001,0.5,0.5
+"RAG, k=5",gpt-4o-mini,q019,True,True,False,0.00015030000000000002,Clippy,Clippy
+"RAG, k=5",gpt-4o-mini,q020,True,True,False,9.180000000000001e-05,hybrid model,Hybrid model
+"RAG, k=5",gpt-4o-mini,q021,True,True,False,9.030000000000003e-05,Autoencoder.,Autoencoder
+"RAG, k=5",gpt-4o-mini,q022,False,True,False,9.135000000000002e-05,RNN.,Recurrent Neural Network
+"RAG, k=5",gpt-4o-mini,q023,False,True,False,9.480000000000003e-05,Difficulty in providing explainable predictions.,Interpretability
+"RAG, k=5",gpt-4o-mini,q024,True,True,False,9.090000000000004e-05,temporal/sequential recommendation.,temporal/sequential recommendation
+"RAG, k=5",gpt-4o-mini,q025,False,False,False,0.00013124999999999996,Sparse data limits effective training in collaborative filte,sparsity
+"RAG, k=5",gpt-4o-mini,q026,False,False,True,7.379999999999995e-05,NOT_FOUND,Factorization Machine
+"RAG, k=5",gpt-4o-mini,q027,True,True,False,9.495e-05,"37,380","37,380"
+"RAG, k=5",gpt-4o-mini,q028,True,True,False,8.370000000000003e-05,"3,362.","3,362"
+"RAG, k=5",gpt-4o-mini,q029,True,True,False,9.524999999999996e-05,13.9,13.9
+"RAG, k=5",gpt-4o-mini,q030,True,True,False,8.46e-05,43.3%,43.3%
+"RAG, k=5",claude-haiku-4.5,q001,True,False,False,0.000969,The YouTube recommendation system consists of 2 neural netwo,two neural networks
+"RAG, k=5",claude-haiku-4.5,q002,True,True,False,0.000677,The candidate generation network retrieves approximately hun,hundreds
+"RAG, k=5",claude-haiku-4.5,q003,True,False,False,0.001157,The YouTube ranking model aims to predict expected watch tim,expected watch time
+"RAG, k=5",claude-haiku-4.5,q004,False,False,True,0.000906,NOT_FOUND,A/B testing
+"RAG, k=5",claude-haiku-4.5,q005,True,True,False,0.000705,Approximate nearest neighbor lookup is used at serving time ,approximate nearest neighbor
+"RAG, k=5",claude-haiku-4.5,q006,False,False,False,0.001124,The two categories are binary classification tasks (for beha,engagement and satisfaction
+"RAG, k=5",claude-haiku-4.5,q007,True,True,False,0.0010520000000000002,The Wide & Deep model architecture is extended by adding a s,Wide & Deep
+"RAG, k=5",claude-haiku-4.5,q008,False,False,False,0.000947,A shallow tower is used to model and remove selection bias i,side-tower
+"RAG, k=5",claude-haiku-4.5,q009,False,False,False,0.001349,The two stages are nomination/retrieval (candidate generatio,candidate generation and ranking
+"RAG, k=5",claude-haiku-4.5,q010,False,False,True,0.000996,The sources do not contain information about the specific ne,two-tower neural net
+"RAG, k=5",claude-haiku-4.5,q011,True,True,False,0.001131,In-batch negatives (items sampled from a random minibatch) a,in-batch negatives
+"RAG, k=5",claude-haiku-4.5,q012,True,True,False,0.0010599999999999997,The YouTube neural retrieval system serves a corpus with ten,tens of millions
+"RAG, k=5",claude-haiku-4.5,q013,False,True,False,0.0012190000000000005,A higher learning rate results in higher final variance in t,final variance is higher
+"RAG, k=5",claude-haiku-4.5,q014,True,True,False,0.001507,REINFORCE is the policy-gradient reinforcement learning algo,REINFORCE
+"RAG, k=5",claude-haiku-4.5,q015,False,False,False,0.0015110000000000002,"The logged feedback was collected from behavior policies, wh",multiple behavior policies
+"RAG, k=5",claude-haiku-4.5,q016,True,True,False,0.0013189999999999999,Boltzmann exploration is used instead of brute-force epsilon,Boltzmann exploration
+"RAG, k=5",claude-haiku-4.5,q017,False,True,False,0.001059,The two types of loss divergence are micro-divergence (which,micro-divergence and full divergence
+"RAG, k=5",claude-haiku-4.5,q018,True,True,False,0.0013309999999999997,Binary classification AUC drops to 0.5 when training loss fu,0.5
+"RAG, k=5",claude-haiku-4.5,q019,True,True,False,0.0014520000000000002,Clippy,Clippy
+"RAG, k=5",claude-haiku-4.5,q020,False,True,False,0.001177,A hybrid recommender system integrates two or more types of ,Hybrid model
+"RAG, k=5",claude-haiku-4.5,q021,True,True,False,0.0009490000000000002,Autoencoder (AE),Autoencoder
+"RAG, k=5",claude-haiku-4.5,q022,True,True,False,0.0009269999999999999,Recurrent Neural Network (RNN) is suitable for modeling sequ,Recurrent Neural Network
+"RAG, k=5",claude-haiku-4.5,q023,True,True,False,0.0011470000000000004,Interpretability - deep neural networks are known to behave ,Interpretability
+"RAG, k=5",claude-haiku-4.5,q024,True,True,False,0.0009550000000000001,"Temporal/sequential recommendation accounts for time, locati",temporal/sequential recommendation
+"RAG, k=5",claude-haiku-4.5,q025,True,False,False,0.0015040000000000001,The main problem is extreme data sparsity - most users have ,sparsity
+"RAG, k=5",claude-haiku-4.5,q026,False,False,True,0.0009750000000000002,The sources do not explicitly name a recommendation model de,Factorization Machine
+"RAG, k=5",claude-haiku-4.5,q027,True,True,False,0.0009289999999999993,"37,380 YouTube users volunteered data for the Mozilla YouTub","37,380"
+"RAG, k=5",claude-haiku-4.5,q028,True,True,False,0.0008960000000000001,"3,362 regrettable videos were flagged in the Mozilla investi","3,362"
+"RAG, k=5",claude-haiku-4.5,q029,True,True,False,0.0008570000000000001,"13.9 Regrets out of every 10,000 videos watched for recommen",13.9
+"RAG, k=5",claude-haiku-4.5,q030,True,True,False,0.0007829999999999998,43.3%,43.3%
+"RAG, k=5",claude-sonnet-4.6,q001,False,False,False,0.002865,2,two neural networks
+"RAG, k=5",claude-sonnet-4.6,q002,True,True,False,0.002064,Hundreds of videos (a small subset from a large corpus).,hundreds
+"RAG, k=5",claude-sonnet-4.6,q003,True,False,False,0.002679,Expected watch time per impression,expected watch time
+"RAG, k=5",claude-sonnet-4.6,q004,False,False,True,0.004116,NOT_FOUND,A/B testing
+"RAG, k=5",claude-sonnet-4.6,q005,True,True,False,0.0019230000000000002,Approximate nearest neighbor lookup,approximate nearest neighbor
+"RAG, k=5",claude-sonnet-4.6,q006,False,False,False,0.003495,"The system predicts engagement objectives (e.g., clicks, tim",engagement and satisfaction
+"RAG, k=5",claude-sonnet-4.6,q007,True,True,False,0.0028890000000000005,Wide & Deep model,Wide & Deep
+"RAG, k=5",claude-sonnet-4.6,q008,False,False,False,0.002694,A shallow tower is used to model and remove selection bias i,side-tower
+"RAG, k=5",claude-sonnet-4.6,q009,False,False,False,0.0036000000000000008,The two stages are candidate generation (nomination/retrieva,candidate generation and ranking
+"RAG, k=5",claude-sonnet-4.6,q010,False,False,True,0.002091000000000001,NOT_FOUND,two-tower neural net
+"RAG, k=5",claude-sonnet-4.6,q011,True,True,False,0.0029309999999999996,In-batch negatives (items sampled from a random minibatch) a,in-batch negatives
+"RAG, k=5",claude-sonnet-4.6,q012,True,True,False,0.0026580000000000006,Tens of millions of videos (approximately 10 million in the ,tens of millions
+"RAG, k=5",claude-sonnet-4.6,q013,False,True,False,0.003210000000000001,The final variance increases when a higher learning rate is ,final variance is higher
+"RAG, k=5",claude-sonnet-4.6,q014,True,True,False,0.0037289999999999997,REINFORCE,REINFORCE
+"RAG, k=5",claude-sonnet-4.6,q015,False,False,False,0.0038010000000000006,The logged feedback was collected from behavior policies (ot,multiple behavior policies
+"RAG, k=5",claude-sonnet-4.6,q016,True,True,False,0.0030749999999999996,Boltzmann exploration,Boltzmann exploration
+"RAG, k=5",claude-sonnet-4.6,q017,True,True,False,0.002985,Micro-divergence and full divergence,micro-divergence and full divergence
+"RAG, k=5",claude-sonnet-4.6,q018,True,True,False,0.003216,0.5,0.5
+"RAG, k=5",claude-sonnet-4.6,q019,True,True,False,0.003578999999999999,Clippy,Clippy
+"RAG, k=5",claude-sonnet-4.6,q020,True,True,False,0.002229,Hybrid model,Hybrid model
+"RAG, k=5",claude-sonnet-4.6,q021,True,True,False,0.002910000000000001,Autoencoder (AE),Autoencoder
+"RAG, k=5",claude-sonnet-4.6,q022,True,True,False,0.0023190000000000016,Recurrent Neural Network (RNN),Recurrent Neural Network
+"RAG, k=5",claude-sonnet-4.6,q023,True,True,False,0.0031139999999999987,The interpretability limitation — deep learning models act a,Interpretability
+"RAG, k=5",claude-sonnet-4.6,q024,True,True,False,0.0022980000000000014,Temporal/sequential recommendation,temporal/sequential recommendation
+"RAG, k=5",claude-sonnet-4.6,q025,False,False,False,0.005715000000000001,Sparse user-item interaction data makes it difficult to trai,sparsity
+"RAG, k=5",claude-sonnet-4.6,q026,False,False,True,0.004202999999999998,NOT_FOUND,Factorization Machine
+"RAG, k=5",claude-sonnet-4.6,q027,True,True,False,0.002610000000000001,"37,380 YouTube users volunteered data for the Mozilla YouTub","37,380"
+"RAG, k=5",claude-sonnet-4.6,q028,True,True,False,0.002706,"3,362 regrettable videos were flagged.","3,362"
+"RAG, k=5",claude-sonnet-4.6,q029,True,True,False,0.0026489999999999986,"13.9 Regrets per 10,000 watched videos for recommendations.",13.9
+"RAG, k=5",claude-sonnet-4.6,q030,True,True,False,0.0022170000000000002,43.3%,43.3%
