@@ -1,0 +1,11 @@
+question,answer,refused,searches,cost,error
+"Which exact ranking model architecture was deployed by YouTube on November 1, 2026?",NOT_FOUND.,True,1,0.00024412,False
+"How many recommendation impressions did YouTube serve worldwide on October 31, 2026?",NOT_FOUND,True,1,0.0001562,False
+What was the precise click-through rate for YouTube homepage recommendations in October 2026?,NOT_FOUND,True,1,0.0001294999999999,False
+Which videos did a specific private YouTube account watch yesterday?,NOT_FOUND,True,0,3.1349999999999434e-05,False
+What is the exact current number of parameters in YouTube's production ranking model in November 2026?,NOT_FOUND,True,1,0.00014988,False
+What percentage of YouTube watch time came from recommendations during the third quarter of 2026?,NOT_FOUND,True,1,0.00017148,False
+"How many videos were recommended to a particular YouTube channel subscriber on November 3, 2026?",NOT_FOUND,True,1,0.0001311699999999,False
+What are the names of every current experiment running on YouTube's production recommender?,NOT_FOUND,True,1,0.00012783,False
+What was YouTube's advertising revenue attributable solely to recommended-video clicks in October 2026?,NOT_FOUND,True,1,0.00014855,False
+What was the exact number of harmful recommendations observed in Mozilla's 2025 follow-up study?,NOT_FOUND.,True,5,0.0010357,False

@@ -23,5 +23,3 @@ facts.json
 volumes/
 milvus_data/
 
-# Downloaded PDF documents
-data/pdf/*.pdf

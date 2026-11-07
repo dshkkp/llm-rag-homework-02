@@ -1,0 +1,31 @@
+config,model,id,correct,found,refused,cost,answer,gold,searches
+Агент + knowledge_base,gpt-4o-mini,q001,True,False,False,0.00050344,2 neural networks.,two neural networks,3
+Агент + knowledge_base,gpt-4o-mini,q002,True,True,False,0.00013362,hundreds.,hundreds,1
+Агент + knowledge_base,gpt-4o-mini,q003,True,False,False,0.00016260999999999996,expected watch time per impression.,expected watch time,1
+Агент + knowledge_base,gpt-4o-mini,q004,False,False,False,0.00017416000000000003,"Engagement and satisfaction metrics, live experiments.",A/B testing,1
+Агент + knowledge_base,gpt-4o-mini,q005,True,True,False,0.00013769,approximate nearest neighbor lookup,approximate nearest neighbor,1
+Агент + knowledge_base,gpt-4o-mini,q006,False,False,False,0.00032550000000000005,clicks and watches.,engagement and satisfaction,2
+Агент + knowledge_base,gpt-4o-mini,q007,True,True,False,0.00016102,Wide & Deep model.,Wide & Deep,1
+Агент + knowledge_base,gpt-4o-mini,q008,False,False,False,0.00015342000000000003,Removal of position bias.,side-tower,1
+Агент + knowledge_base,gpt-4o-mini,q009,False,False,False,0.00014641000000000003,nomination and ranking.,candidate generation and ranking,1
+Агент + knowledge_base,gpt-4o-mini,q010,False,False,True,0.00115361,NOT_FOUND,two-tower neural net,5
+Агент + knowledge_base,gpt-4o-mini,q011,False,True,False,0.00018387999999999998,Negatives are sampled from in-batch items during two-tower t,in-batch negatives,1
+Агент + knowledge_base,gpt-4o-mini,q012,False,True,False,0.00014745999999999987,10 million videos.,tens of millions,1
+Агент + knowledge_base,gpt-4o-mini,q013,False,True,False,0.00019369999999999978,Higher learning rate increases final variance.,final variance is higher,1
+Агент + knowledge_base,gpt-4o-mini,q014,True,True,False,0.0001626300000000002,REINFORCE.,REINFORCE,1
+Агент + knowledge_base,gpt-4o-mini,q015,False,False,False,0.00024567000000000035,Behavior policies skewed to favor less rewarding actions.,multiple behavior policies,1
+Агент + knowledge_base,gpt-4o-mini,q016,True,True,False,0.00018142000000000006,Boltzmann exploration.,Boltzmann exploration,1
+Агент + knowledge_base,gpt-4o-mini,q017,True,True,False,0.00015088999999999988,micro-divergence and full divergence.,micro-divergence and full divergence,1
+Агент + knowledge_base,gpt-4o-mini,q018,True,True,False,0.0001729800000000001,0.5,0.5,1
+Агент + knowledge_base,gpt-4o-mini,q019,True,True,False,0.00020892999999999997,Clippy,Clippy,1
+Агент + knowledge_base,gpt-4o-mini,q020,False,False,False,0.00016715000000000046,hybrid recommender system.,Hybrid model,1
+Агент + knowledge_base,gpt-4o-mini,q021,True,True,False,0.00014177999999999977,Autoencoder.,Autoencoder,1
+Агент + knowledge_base,gpt-4o-mini,q022,True,True,False,0.00017027999999999965,RNN (Recurrent Neural Network).,Recurrent Neural Network,1
+Агент + knowledge_base,gpt-4o-mini,q023,True,True,False,0.00016337999999999943,Non-interpretability of predictions.,Interpretability,1
+Агент + knowledge_base,gpt-4o-mini,q024,True,True,False,0.0001700899999999999,temporal/sequential recommendation.,temporal/sequential recommendation,1
+Агент + knowledge_base,gpt-4o-mini,q025,False,False,False,0.0005767199999999998,Sparse interactions hinder accurate preference learning and ,sparsity,3
+Агент + knowledge_base,gpt-4o-mini,q026,True,True,False,0.00016228999999999983,Factorization Machine (FM).,Factorization Machine,1
+Агент + knowledge_base,gpt-4o-mini,q027,True,True,False,0.0001486600000000001,"37,380","37,380",1
+Агент + knowledge_base,gpt-4o-mini,q028,True,True,False,0.0001369399999999999,"3,362.","3,362",1
+Агент + knowledge_base,gpt-4o-mini,q029,True,True,False,0.00015172000000000015,13.9,13.9,1
+Агент + knowledge_base,gpt-4o-mini,q030,True,True,False,0.00014543999999999972,43.3%,43.3%,1
